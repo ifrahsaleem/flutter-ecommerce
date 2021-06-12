@@ -2,8 +2,6 @@
 
 e-commerce application for CS 308
 
-Guljahan Annagurbanova's commits are shown by Jeren Annagurbanova's name, but they were created by Guljahan Annagurbanova.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
