@@ -1,0 +1,3 @@
+
+
+double totalPrice = 0;
